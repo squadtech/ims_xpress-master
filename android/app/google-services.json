@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "287536875230",
+    "firebase_url": "https://shopapp-9c00c.firebaseio.com",
+    "project_id": "shopapp-9c00c",
+    "storage_bucket": "shopapp-9c00c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287536875230:android:1ea95afb67f70b504c644f",
+        "android_client_info": {
+          "package_name": "pk.com.infusiblecoder.coder.www.ims_xpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287536875230-n6bamk51bhmkgrhf9q5l8qr4rirm3q12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAPoxojuHMEeDJtqN9VJfn-KpowkZULts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287536875230-n6bamk51bhmkgrhf9q5l8qr4rirm3q12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
